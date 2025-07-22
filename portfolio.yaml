@@ -1,0 +1,39 @@
+name: Bhupesh Mukane
+title: Aspiring Security Researcher & AI Developer
+
+summary: >
+  Passionate about cybersecurity, networking, and AI/ML with hands-on experience in Python, Linux, and automation projects.
+
+contacts:
+  email: mukanebhupesh6@example.com
+  phone: +91-7021550709
+  github: https://github.com/bhupeshmukane_
+  linkedin: https://linkedin.com/in/bhupeshmukane_
+
+skills:
+  - Python
+  - Java
+  - Go
+  - Linux
+  - Machine Learning
+  - Web Security
+  - Networking
+  - OpenCV
+  - Git & GitHub
+
+projects:
+ 
+  - title: Personal Portfolio Generator
+    description: Python tool that auto-generates an HTML portfolio from a YAML or JSON input.
+    technologies: [Python, Jinja2, YAML]
+
+education:
+  - degree: B.E in Information Technology
+    university: Mumbai University
+    year: 2027 
+
+certifications:
+  - Data Science in Python – GUVI
+  - Networking Basics – Nikistclub
+  - Python – guvi
+
